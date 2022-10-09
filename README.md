@@ -1,4 +1,3 @@
-###hello, word
 <h1 align="center">Hi 👋, I'm Alejandra!</h1>
 <h3 align="center">A self-taught Venezuelan student who is passionate about Web Development and programming.</h3>
 
